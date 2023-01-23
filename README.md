@@ -18,3 +18,5 @@ a-> [2,3,5,8,7,9,4,15,6] dizideki en küçük sayıyı bul en baştaki ile yer d
 b-> [2,3,5,8,7,9,4,15,6] ikinci sıradaki zaten ikinci en küçük (3)
 c-> [2,3,4,8,7,9,5,15,6] üçüncü sıradaki ile kalan sayı içinden en küçüğü bul yer değiştir (5-4)
 d-> [2,3,4,5,7,9,8,15,6] dördüncü sıradaki ile kalan sayı içinden en küçüğü bul yer değiştir (8-5)
+
+
